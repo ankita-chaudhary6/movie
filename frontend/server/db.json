@@ -1,0 +1,44 @@
+{
+  "watchlist": [
+    {
+      "vote_count": 1015,
+      "id": 287947,
+      "video": false,
+      "vote_average": 7.3,
+      "title": "Shazam!",
+      "popularity": 304.467,
+      "poster_path": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "original_language": "en",
+      "original_title": "Shazam!",
+      "genre_ids": [
+        35,
+        12,
+        14
+      ],
+      "backdrop_path": "/bi4jh0Kt0uuZGsGJoUUfqmbrjQg.jpg",
+      "adult": false,
+      "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+      "release_date": "2019-03-23"
+    },
+    {
+      "vote_count": 1493,
+      "id": 166428,
+      "video": false,
+      "vote_average": 7.6,
+      "title": "How to Train Your Dragon: The Hidden World",
+      "popularity": 201.43,
+      "poster_path": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon: The Hidden World",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+      "adult": false,
+      "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "release_date": "2019-01-03"
+    }
+  ]
+}

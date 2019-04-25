@@ -1,0 +1,38 @@
+.movie-thumbnail{
+    width:400px;
+    margin:10px;
+}
+.mat-card-header .mat-card-title {
+    margin-bottom: 8px;
+}
+.movie-title
+{
+    height:40px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.movie-title::-webkit-scrollbar{
+    width:2px;
+    background: gray;
+}
+
+.movie-image{
+    height:500px;
+}
+.movie-overview{
+    height: 80px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.movie-overview::-webkit-scrollbar{
+    width:2px;
+    background: gray;
+}
+.movie-actions{
+    text-align: right;
+
+}
+.mat-card-actions, .mat-card-content, .mat-card-subtitle {
+    display: block;
+    margin-bottom: 8px;
+}
